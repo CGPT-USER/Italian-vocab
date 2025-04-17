@@ -1,0 +1,27 @@
+[
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  }
+]

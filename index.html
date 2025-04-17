@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Italian Vocabulary App</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #f5f5f5; }
+    .word { background: white; padding: 10px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 0 5px #ccc; }
+    button { margin-left: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Italian Vocabulary</h1>
+  <div id="vocab-list">Loading...</div>
+
+  <script>
+    async function loadVocab() {
+      const res = await fetch('italian_vocab_real.json');
+      const data = await res.json();
+      const container = document.getElementById('vocab-list');
+      container.innerHTML = '';
+      data.forEach(word => {
+        const div = document.createElement('div');
+        div.className = 'word';
+        div.innerHTML = `<strong>${word.it}</strong> - ${word.en} <button onclick="speak('${word.it}')">🔊</button>`;
+        container.appendChild(div);
+      });
+    }
+
+    function speak(text) {
+      const msg = new SpeechSynthesisUtterance(text);
+      msg.lang = 'it-IT';
+      window.speechSynthesis.speak(msg);
+    }
+
+    loadVocab();
+  </script>
+</body>
+</html>
