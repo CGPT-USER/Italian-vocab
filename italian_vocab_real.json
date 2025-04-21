@@ -10,9 +10,19 @@
     "type": "verb"
   },
   {
-    "it": "libro",
-    "en": "book",
-    "type": "noun"
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
   },
   {
     "it": "casa",
@@ -20,8 +30,7473 @@
     "type": "noun"
   },
   {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
     "it": "felice",
     "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
+    "type": "adj"
+  },
+  {
+    "it": "mangiare",
+    "en": "to eat",
+    "type": "verb"
+  },
+  {
+    "it": "bere",
+    "en": "to drink",
+    "type": "verb"
+  },
+  {
+    "it": "correre",
+    "en": "to run",
+    "type": "verb"
+  },
+  {
+    "it": "scrivere",
+    "en": "to write",
+    "type": "verb"
+  },
+  {
+    "it": "leggere",
+    "en": "to read",
+    "type": "verb"
+  },
+  {
+    "it": "casa",
+    "en": "house",
+    "type": "noun"
+  },
+  {
+    "it": "libro",
+    "en": "book",
+    "type": "noun"
+  },
+  {
+    "it": "gatto",
+    "en": "cat",
+    "type": "noun"
+  },
+  {
+    "it": "scuola",
+    "en": "school",
+    "type": "noun"
+  },
+  {
+    "it": "macchina",
+    "en": "car",
+    "type": "noun"
+  },
+  {
+    "it": "felice",
+    "en": "happy",
+    "type": "adj"
+  },
+  {
+    "it": "triste",
+    "en": "sad",
+    "type": "adj"
+  },
+  {
+    "it": "veloce",
+    "en": "fast",
+    "type": "adj"
+  },
+  {
+    "it": "lento",
+    "en": "slow",
+    "type": "adj"
+  },
+  {
+    "it": "bello",
+    "en": "beautiful",
     "type": "adj"
   }
 ]
