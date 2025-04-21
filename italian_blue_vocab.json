@@ -1,0 +1,157 @@
+[
+  {
+    "it": "il corpo",
+    "en": "body",
+    "type": "noun"
+  },
+  {
+    "it": "l’osso",
+    "en": "bone",
+    "type": "noun"
+  },
+  {
+    "it": "la pelle",
+    "en": "skin",
+    "type": "noun"
+  },
+  {
+    "it": "il pelo",
+    "en": "body hair",
+    "type": "noun"
+  },
+  {
+    "it": "il sangue",
+    "en": "blood",
+    "type": "noun"
+  },
+  {
+    "it": "il muscolo",
+    "en": "muscle",
+    "type": "noun"
+  },
+  {
+    "it": "la testa",
+    "en": "head",
+    "type": "noun"
+  },
+  {
+    "it": "il cervello",
+    "en": "brain",
+    "type": "noun"
+  },
+  {
+    "it": "la faccia",
+    "en": "face",
+    "type": "noun"
+  },
+  {
+    "it": "la fronte",
+    "en": "forehead",
+    "type": "noun"
+  },
+  {
+    "it": "la bocca",
+    "en": "mouth",
+    "type": "noun"
+  },
+  {
+    "it": "il dente",
+    "en": "tooth",
+    "type": "noun"
+  },
+  {
+    "it": "togliere",
+    "en": "remove; pull",
+    "type": "verb"
+  },
+  {
+    "it": "la mascella",
+    "en": "jaw",
+    "type": "noun"
+  },
+  {
+    "it": "la lingua",
+    "en": "tongue",
+    "type": "noun"
+  },
+  {
+    "it": "il collo",
+    "en": "neck",
+    "type": "noun"
+  },
+  {
+    "it": "la gola",
+    "en": "throat",
+    "type": "noun"
+  },
+  {
+    "it": "la spalla",
+    "en": "shoulder",
+    "type": "noun"
+  },
+  {
+    "it": "il petto",
+    "en": "chest, breast, bosom",
+    "type": "noun"
+  },
+  {
+    "it": "il braccio",
+    "en": "arm",
+    "type": "noun"
+  },
+  {
+    "it": "la mano",
+    "en": "hand",
+    "type": "noun"
+  },
+  {
+    "it": "il dito",
+    "en": "finger; toe",
+    "type": "noun"
+  },
+  {
+    "it": "la gamba",
+    "en": "leg",
+    "type": "noun"
+  },
+  {
+    "it": "il ginocchio",
+    "en": "knee",
+    "type": "noun"
+  },
+  {
+    "it": "il piede",
+    "en": "foot",
+    "type": "noun"
+  },
+  {
+    "it": "il cuore",
+    "en": "heart",
+    "type": "noun"
+  },
+  {
+    "it": "il polmone",
+    "en": "lung",
+    "type": "noun"
+  },
+  {
+    "it": "respirare",
+    "en": "breathe",
+    "type": "verb"
+  },
+  {
+    "it": "il respiro",
+    "en": "breath",
+    "type": "noun"
+  },
+  {
+    "it": "soffocare",
+    "en": "suffocate",
+    "type": "verb"
+  },
+  {
+    "it": "il fegato",
+    "en": "liver",
+    "type": "noun"
+  }
+]
